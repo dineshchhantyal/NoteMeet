@@ -35,6 +35,9 @@
 
 ---
 
+## NoteMeet Cloud Architecture
+![NoteMeet Cloud Architecture](note-meet-architecture.png)
+
 ## Sub Repositories for This Project
 
 ### [NoteMeetSpawner: Selenium WebDriver Setup](https://github.com/dineshchhantyal/NoteMeetSpawner)
