@@ -41,6 +41,7 @@
 ## Sub Repositories for This Project
 
 ### [NoteMeetSpawner: Selenium WebDriver Setup](https://github.com/dineshchhantyal/NoteMeetSpawner)
+### [NoteMeetCloudInfrastructure: AWS](https://github.com/dineshchhantyal/NoteMeetCloudInfra)
 
 The **NoteMeetSpawner** repository is designed to automate the setup and spawning of Selenium WebDriver instances for testing and automation purposes.
 
