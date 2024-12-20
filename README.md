@@ -1,6 +1,6 @@
 # NoteMeet
 
-**NoteMeet** is a powerful meeting management tool designed to enhance collaboration, improve productivity, and streamline meeting follow-ups. It automatically generates meeting transcripts, provides actionable insights, and helps users stay organized with reminders and summaries. With advanced NLP features like sentiment analysis, action item extraction, and date/event reminders, NoteMeet makes meetings more efficient and impactful.
+[NoteMeet](https://notemeet.dineshchhantyal.com) is a powerful meeting management tool designed to enhance collaboration, improve productivity, and streamline meeting follow-ups. It automatically generates meeting transcripts, provides actionable insights, and helps users stay organized with reminders and summaries. With advanced NLP features like sentiment analysis, action item extraction, and date/event reminders, NoteMeet makes meetings more efficient and impactful.
 
 ---
 
@@ -40,6 +40,8 @@
 
 ## Sub Repositories for This Project
 
+### [NoteMeet Live:](https://notemeet.dineshchhantyal.com)
+### [NoteMeetFrontend: NextJS](https://github.com/dineshchhantyal/NoteMeet-Frontend.git)
 ### [NoteMeetSpawner: Selenium WebDriver Setup](https://github.com/dineshchhantyal/NoteMeetSpawner)
 ### [NoteMeetCloudInfrastructure: AWS](https://github.com/dineshchhantyal/NoteMeetCloudInfra)
 
@@ -48,5 +50,5 @@ The **NoteMeetSpawner** repository is designed to automate the setup and spawnin
 #### Key Features:
 - Automatically launches a Selenium WebDriver instance tailored to your testing environment.
 - Customizable WebDriver configuration to suit the specific requirements of your project.
-- Seamless integration with **NoteMeet** to enable automated end-to-end testing.
+- Seamless integration with [NoteMeet](https://notemeet.dineshchhantyal.com) to enable automated end-to-end testing.
 # NoteMeet
