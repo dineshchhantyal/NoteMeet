@@ -44,6 +44,7 @@
 ### [NoteMeetFrontend: NextJS](https://github.com/dineshchhantyal/NoteMeet-Frontend.git)
 ### [NoteMeetSpawner: Selenium WebDriver Setup](https://github.com/dineshchhantyal/NoteMeetSpawner)
 ### [NoteMeetCloudInfrastructure: AWS](https://github.com/dineshchhantyal/NoteMeetCloudInfra)
+### [NoteMeetBroswerExtension](https://github.com/dineshchhantyal/NoteMeet-BrowserExtension)
 
 The **NoteMeetSpawner** repository is designed to automate the setup and spawning of Selenium WebDriver instances for testing and automation purposes.
 
