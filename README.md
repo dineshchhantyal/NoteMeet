@@ -1,20 +1,21 @@
-# NoteMeet
+# NoteMeet <img src="screenshots/notemeet-logo.png" alt="NoteMeet Logo" height="40px" style="vertical-align: middle;">
 
 [NoteMeet](https://notemeet.dineshchhantyal.com) is a powerful meeting management tool designed to enhance collaboration, improve productivity, and streamline meeting follow-ups. It automatically generates meeting transcripts, provides actionable insights, and helps users stay organized with reminders and summaries. With advanced NLP features like sentiment analysis, action item extraction, and date/event reminders, NoteMeet makes meetings more efficient and impactful.
+
+![NoteMeet Landing Page](screenshots/landing-hero.png)
 
 ---
 
 ## Features
+![NoteMeet Features Overview](screenshots/features.png)
 
 ### 1. **Transcript Management**
    - **Automatic Transcript Generation**: Convert audio and video from meetings into accurate text transcripts.
    - **Searchable Transcript Archives**: Search past meeting transcripts by keywords, dates, topics, or metadata.
    - **Speaker Identification**: Automatically distinguish between different speakers for clearer understanding.
-   
-### 2. **Meeting Summarization**
-   - **Summarization API Integration**: Automatically generate concise meeting summaries highlighting key points.
-   - **Manual Highlighting Option**: Allow users to highlight key discussion points for customized summaries.
-   - **Collaborative Editing**: Enable multiple participants to review, edit, and highlight important sections of the transcript.
+
+### 2. **Meeting Management**
+![Meeting List View](screenshots/meeting-list.png)
 
 ### 3. **Action Item and Date Detection**
    - **Automated Action Item Extraction**: Detect action items from the transcript (e.g., tasks, deadlines).
@@ -38,18 +39,25 @@
 ## NoteMeet Cloud Architecture
 ![NoteMeet Cloud Architecture](note-meet-architecture.png)
 
-## Sub Repositories for This Project
+## Sub Repositories
 
-### [NoteMeet Live:](https://notemeet.dineshchhantyal.com)
-### [NoteMeetFrontend: NextJS](https://github.com/dineshchhantyal/NoteMeet-Frontend.git)
-### [NoteMeetSpawner: Selenium WebDriver Setup](https://github.com/dineshchhantyal/NoteMeetSpawner)
-### [NoteMeetCloudInfrastructure: AWS](https://github.com/dineshchhantyal/NoteMeetCloudInfra)
-### [NoteMeetBroswerExtension](https://github.com/dineshchhantyal/NoteMeet-BrowserExtension)
+| Repository | Description | Link |
+|------------|-------------|------|
+| NoteMeet Live | Production deployment | [Visit →](https://notemeet.dineshchhantyal.com) |
+| NoteMeet Frontend | Next.js based web application | [GitHub →](https://github.com/dineshchhantyal/NoteMeet-Frontend) |
+| NoteMeet Spawner | Selenium WebDriver automation setup | [GitHub →](https://github.com/dineshchhantyal/NoteMeetSpawner) |
+| NoteMeet Cloud Infrastructure | AWS infrastructure as code | [GitHub →](https://github.com/dineshchhantyal/NoteMeetCloudInfra) |
+| NoteMeet Browser Extension | Chrome/Firefox extension | [GitHub →](https://github.com/dineshchhantyal/NoteMeet-BrowserExtension) |
 
-The **NoteMeetSpawner** repository is designed to automate the setup and spawning of Selenium WebDriver instances for testing and automation purposes.
+### NoteMeet Spawner
+The NoteMeet Spawner repository automates Selenium WebDriver instance setup for testing:
+- Automatically launches WebDriver instances tailored to your environment
+- Provides customizable WebDriver configurations
+- Enables seamless integration with NoteMeet for end-to-end testing
 
-#### Key Features:
-- Automatically launches a Selenium WebDriver instance tailored to your testing environment.
-- Customizable WebDriver configuration to suit the specific requirements of your project.
-- Seamless integration with [NoteMeet](https://notemeet.dineshchhantyal.com) to enable automated end-to-end testing.
-# NoteMeet
+## Browser Extension
+Enhance your meeting experience with our browser extension.
+
+![Browser Extension Screenshot](screenshots/broswer-extension-screenshot.png)
+
+[Get the extension →](https://chrome.google.com/webstore/detail/notemeet)
