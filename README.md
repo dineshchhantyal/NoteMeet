@@ -48,7 +48,8 @@
 | NoteMeet Spawner | Selenium WebDriver automation setup | [GitHub →](https://github.com/dineshchhantyal/NoteMeetSpawner) |
 | NoteMeet Cloud Infrastructure | AWS infrastructure as code | [GitHub →](https://github.com/dineshchhantyal/NoteMeetCloudInfra) |
 | NoteMeet Browser Extension | Chrome/Firefox extension | [GitHub →](https://github.com/dineshchhantyal/NoteMeet-BrowserExtension) |
-
+| Chrome Extension | Download NoteMeet for Chrome | [Download →](https://chromewebstore.google.com/detail/notemeet-meeting-recorder/iglooicboappkpddcinabadplpbkchfl) |
+| Edge Extension | Download NoteMeet for Edge | [Download →](https://microsoftedge.microsoft.com/addons/detail/njjobhoojhpgimbmdleifbkoghncindb) |
 ### NoteMeet Spawner
 The NoteMeet Spawner repository automates Selenium WebDriver instance setup for testing:
 - Automatically launches WebDriver instances tailored to your environment
@@ -60,4 +61,3 @@ Enhance your meeting experience with our browser extension.
 
 ![Browser Extension Screenshot](screenshots/broswer-extension-screenshot.png)
 
-[Get the extension →](https://chrome.google.com/webstore/detail/notemeet)
